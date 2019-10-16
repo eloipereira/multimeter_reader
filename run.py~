@@ -1,0 +1,3 @@
+from multimeter_reader import app
+
+app.run()
